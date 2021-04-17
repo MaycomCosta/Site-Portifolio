@@ -1,0 +1,47 @@
+h1{
+  font-family:Helvetica;
+  color: #414141;
+}
+section{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  max-width: 500px;
+  background-color:white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+div ol{
+  text-align: left;
+  color: #414141;
+}
+div{
+  text-align: center;
+  color: #414141;
+  font-size: 20px;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+body{
+  background-color: #92d5ef;
+}
+header img{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  border: 10px solid white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateY(-60%);
+}
+header{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4resSIqUgZyfdZOe3X0toyKa7IE7rlK8Iw&usqp=CAU");
+  background-size: cover;
+  border: 2px solid black;
+  border-radius: 4px;
+  height: 100px;
+}
